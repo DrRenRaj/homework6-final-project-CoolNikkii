@@ -1,5 +1,5 @@
 package hw6;
-//Commit
+
 import java.util.Scanner;
 
 public class Main {
